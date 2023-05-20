@@ -1,3 +1,5 @@
+# version 0.1
+
 import pgzrun
 TITLE="Space shooter"
 WIDTH=1200
